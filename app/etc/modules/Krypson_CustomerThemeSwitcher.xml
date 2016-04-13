@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Krypson_CustomerThemeSwitcher>
+      <codePool>community</codePool>
+      <active>true</active>
+    </Krypson_CustomerThemeSwitcher>
+  </modules>
+</config>
