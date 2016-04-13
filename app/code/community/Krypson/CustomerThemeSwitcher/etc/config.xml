@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Krypson_CustomerThemeSwitcher>
+      <version>1.0.0.0</version>
+    </Krypson_CustomerThemeSwitcher>
+  </modules>
+  <global>
+    <helpers>
+      <class>Krypson_CustomerThemeSwitcher_Helper</class>
+    </helpers>
+    <models>
+      <class>Krypson_CustomerThemeSwitcher_Model</class>
+    </models>
+    <blocks>
+      <class>Krypson_CustomerThemeSwitcher_Block</class>
+    </blocks>
+  </global>
+</config>
